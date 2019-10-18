@@ -1,0 +1,40 @@
+.body{
+    margin: 5px 150px;
+    background-color: white;
+    height:auto;
+}
+.danhmuc{
+    width: auto;
+}
+.carousel{
+    border: 2px  solid yellow;
+    width:auto;
+    height: auto;
+    margin-left: 5px;
+    
+}
+.vertical-menu{
+    border-radius: 10px;
+}
+.vertical-menu a {
+  background-color: #eee;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+
+.vertical-menu a:hover {
+  background-color: rgb(245, 242, 88);
+}
+
+.vertical-menu a.active {
+  background-color: #FAEA00;
+  color: black;
+  font-weight: bold;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: 300px 900px;
+  padding: 10px;
+}

@@ -1,0 +1,16 @@
+
+.nava a{
+    font-size: 18px;
+    font-weight: bold; 
+    color:black;
+    margin: 0 10px;
+    &.active{
+        background-color:rgb(250, 162, 0);
+        border-radius: 5px;
+        
+    }
+    &:hover{
+        background-color:#FAEA00;
+        border-radius: 5px;
+    }  
+}

@@ -1,0 +1,37 @@
+.allphone-img {
+  .a {
+    height: 13%;
+    width: 13%;
+    border: 1px solid #ccc;
+    padding: 5px;
+  }
+}
+
+.galleryall {
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  float: left;
+  width: 185px;
+  height: 300px;
+  transition: transform 0.4s;
+
+  .muangay {
+    background-color: orange;
+    height: 45px;
+    position: relative;
+    border-radius: 0 0 5px 5px;
+    .a {
+      margin-left: -35px;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      color: white;
+    }
+  }
+
+  .desc {
+    padding: 10px 5px 0 5px;
+    text-align: left;
+  }
+}

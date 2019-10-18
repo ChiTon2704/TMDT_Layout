@@ -1,0 +1,38 @@
+.search {
+  margin-bottom: -10px;
+  width: 60%;
+  padding-top: 10px;
+}
+.search_bar {
+  margin: 60px 150px 0 150px;
+  background-color: #f3e953;
+  
+}
+.bg {
+  background-color: #f3e953;
+}
+.account {
+  font-size: 24px;
+  .tk {
+    font-size: 15px;
+  }
+  position: absolute;
+  left: 120px;
+  top: 150px;
+}
+.cart {
+  font-size: 28px;
+}
+.cartspan {
+  display: inline;
+  position: absolute;
+  left: 90px;
+  top: 150px;
+}
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}

@@ -1,0 +1,93 @@
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  float: left;
+  width: 185px;
+  height: 300px;
+  transition: transform 0.4s;
+  &:hover {
+    border: 1px solid orange;
+    transform: scale(1.1, 1.1);
+    -moz-transform: scale(1.1, 1.1);
+    -webkit-transform: scale(1.1, 1.1);
+    -o-transform: scaleY(1.1, 1.1);
+    -ms-transform: scale(1.1, 1.1);
+    .muangay {
+      background-color: orange;
+      height: 45px;
+      position: relative;
+      border-radius: 0 0 5px 5px;
+      .a{
+        margin-left: -35px;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        color: white;
+      }
+     
+    }
+  }
+  .desc {
+    padding: 10px 5px 0 5px;
+    text-align: left;
+  }
+}
+.h6 {
+  color: red;
+  font-size: 15px;
+  float: bottom;
+}
+.p {
+  font-size: 14px;
+  height: 25px;
+  text-decoration: none;
+}
+.gallery img {
+  width: 100%;
+  padding-top: 10px;
+  height: auto;
+}
+.gallery a {
+  text-decoration: none;
+}
+
+.dienthoainoibat {
+  padding: 10px 15px 10px 15px;
+  margin-right: 15px;
+  border-bottom: solid 5px #ccc;
+}
+.body2 {
+  margin-left: 15px;
+  height: auto;
+}
+.h3 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 1190px;
+  border-bottom: 1px solid #ccc;
+}
+.NB{
+  display: inline;
+}
+.NBPhone{
+  float:right;
+  margin-left: 30px;
+  font-size: 15px;
+ 
+  &:hover{
+    text-decoration: none;
+  }
+}
+.muangay {
+      height: 45px;
+      position: relative;
+      border: 1px solid orange;
+      border-radius: 0 0 5px 5px;
+  .a{
+    color: orange;
+    margin-left: -35px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}

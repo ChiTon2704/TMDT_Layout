@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1,
+        "name_phone": "Pro Max 512GB",
+        "category": "Iphone",
+        "NB":true,
+        "price": 43990000,
+        "discount":3000000,
+        "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/210654/iphone-11-pro-max-512gb-gold-600x600.jpg"
+    },
+    {
+        "id": 2,
+        "name_phone": "Pro Max 256GB",
+        "category": "Iphone",
+        "NB":true,
+        "price": 37990000,
+        "discount":3000000,
+        "description": "",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/210653/iphone-11-pro-max-256gb-black-600x600.jpg"
+    },
+    {
+        "id": 3,
+        "name_phone": "iPhone XS Max 256GB",
+        "category": "Iphone",
+        "NB":true,
+        "discount":3000000,
+        "price": 32990000,
+        "description": "hasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/190322/iphone-xs-max-256gb-white-600x600.jpg"
+    },
+    {
+        "id": 4,
+        "name_phone": "IPhone Xs 256GB",
+        "category": "Iphone",
+        "discount":3000000,
+        "price": 29990000,
+        "description": "hasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/190324/iphone-xs-256gb-white-600x600.jpg"
+    },
+    {
+        "id": 5,
+        "name_phone": "iPhone X 256GB",
+        "category": "Iphone",
+        "NB":true,
+        "discount":3000000,
+        "price": 19000000,
+        "description": "hasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-256gb-a1-600x600.jpg"
+    },
+    {
+        "id": 6,
+        "name_phone": "iPhone Xr 256GB",
+        "category": "Iphone",
+        "NB":true,
+        "price": 21990000,
+        "discount":3000000,
+        "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/190326/iphone-xr-256gb-white-600x600.jpg"
+    },
+    {
+        "id": 7,
+        "name_phone": "Samsung Galaxy Note 10+ ",
+        "category": "Samsung",
+        "price": 26990000,
+        "discount":3000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "img": "https://imgs.viettelstore.vn/images/Product/ProductImage/medium/9196629362.jpg"
+    },
+    {
+        "id": 8,
+        "name_phone": "Samsung Galaxy A50s",
+        "category": "Samsung",
+        "NB":true,
+        "price": 7290000,
+        "discount":3000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/198986/sieu-pham-galaxy-s-moi-2-512gb-black-400x400.jpg"
+    },
+    {
+        "id": 9,
+        "name_phone": "Samsung Galaxy A20s ",
+        "category": "Samsung",
+        "price": 4390000,
+        "discount":3000000,
+        "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "img": "https://imgs.viettelstore.vn/Images/Product/ProductImage/1013416496.png"
+    },
+    {
+        "id": 10,
+        "name_phone": "Samsung Galaxy Note 10+ ",
+        "category": "Samsung",
+        "NB":true,
+        "price": 26990000,
+        "discount":3000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "img": "https://imgs.viettelstore.vn/Images/Product/ProductImage/410095090.png"
+    },
+    {
+        "id": 11,
+        "name_phone": "Samsung Galaxy A50s",
+        "category": "Samsung",
+        "NB":true,
+        "price": 7290000,
+        "discount":1000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/198986/sieu-pham-galaxy-s-moi-2-512gb-black-400x400.jpg"
+    },
+    {
+        "id": 12,
+        "name_phone": "Samsung Galaxy A20s ",
+        "category": "Samsung",
+        "NB":true,
+        "price": 4390000,
+        "discount":500000,
+        "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "img": "https://imgs.viettelstore.vn/Images/Product/ProductImage/1013416496.png"
+    },
+    {
+        "id": 13,
+        "name_phone": "Pro Max 512GB",
+        "category": "Xiaomi",
+        "price": 43990000,
+        "discount":3000000,
+        "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/210654/iphone-11-pro-max-512gb-gold-600x600.jpg"
+    },
+    {
+        "id": 14,
+        "name_phone": "Pro Max 256GB",
+        "category": "Xiaomi",
+        "NB":true,
+        "price": 37990000,
+        "discount":3000000,
+        "description": "",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/210653/iphone-11-pro-max-256gb-black-600x600.jpg"
+    },
+    {
+        "id": 15,
+        "name_phone": "iPhone XS Max 256GB",
+        "category": "Xiaomi",
+        "NB":true,
+        "discount":3000000,
+        "price": 32990000,
+        "description": "hasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/190322/iphone-xs-max-256gb-white-600x600.jpg"
+    },
+    {
+        "id": 16,
+        "name_phone": "IPhone Xs 256GB",
+        "category": "Xiaomi",
+        "discount":3000000,
+        "price": 29990000,
+        "description": "hasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/190324/iphone-xs-256gb-white-600x600.jpg"
+    },
+    {
+        "id": 17,
+        "name_phone": "iPhone X 256GB",
+        "category": "Xiaomi",
+        "NB":true,
+        "discount":3000000,
+        "price": 19000000,
+        "description": "hasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-256gb-a1-600x600.jpg"
+    },
+    {
+        "id": 18,
+        "name_phone": "iPhone Xr 256GB",
+        "category": "Xiaomi",
+        "price": 21990000,
+        "discount":3000000,
+        "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/190326/iphone-xr-256gb-white-600x600.jpg"
+    },
+    {
+        "id": 19,
+        "name_phone": "Samsung Galaxy Note 10+ ",
+        "category": "Oppo",
+        "price": 26990000,
+        "discount":3000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "img": "https://imgs.viettelstore.vn/images/Product/ProductImage/medium/9196629362.jpg"
+    },
+    {
+        "id": 20,
+        "name_phone": "Samsung Galaxy A50s",
+        "category": "Oppo",
+        "price": 7290000,
+        "discount":3000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/198986/sieu-pham-galaxy-s-moi-2-512gb-black-400x400.jpg"
+    },
+    {
+        "id": 21,
+        "name_phone": "Samsung Galaxy A20s ",
+        "category": "Oppo",
+        "price": 4390000,
+        "discount":3000000,
+        "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "img": "https://imgs.viettelstore.vn/Images/Product/ProductImage/1013416496.png"
+    },
+    {
+        "id": 22,
+        "name_phone": "Samsung Galaxy Note 10+ ",
+        "category": "Oppo",
+        "price": 26990000,
+        "discount":3000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "img": "https://imgs.viettelstore.vn/Images/Product/ProductImage/410095090.png"
+    },
+    {
+        "id": 23,
+        "name_phone": "Samsung Galaxy A50s",
+        "category": "Oppo",
+        "price": 7290000,
+        "discount":1000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/198986/sieu-pham-galaxy-s-moi-2-512gb-black-400x400.jpg"
+    },
+    {
+        "id": 24,
+        "name_phone": "Samsung Galaxy A20s ",
+        "category": "Oppo",
+        "price": 4390000,
+        "discount":500000,
+        "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "img": "https://imgs.viettelstore.vn/Images/Product/ProductImage/1013416496.png"
+    },
+    {
+        "id": 25,
+        "name_phone": "Samsung Galaxy Note 10+ ",
+        "category": "Huawei",
+        "price": 26990000,
+        "discount":3000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "img": "https://imgs.viettelstore.vn/images/Product/ProductImage/medium/9196629362.jpg"
+    },
+    {
+        "id": 26,
+        "name_phone": "Samsung Galaxy A50s",
+        "category": "Huawei",
+        "price": 7290000,
+        "discount":3000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/198986/sieu-pham-galaxy-s-moi-2-512gb-black-400x400.jpg"
+    },
+    {
+        "id": 27,
+        "name_phone": "Samsung Galaxy A20s ",
+        "category": "Huawei",
+        "price": 4390000,
+        "discount":3000000,
+        "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "img": "https://imgs.viettelstore.vn/Images/Product/ProductImage/1013416496.png"
+    },
+    {
+        "id": 28,
+        "name_phone": "Samsung Galaxy Note 10+ ",
+        "category": "Huawei",
+        "price": 26990000,
+        "discount":3000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "img": "https://imgs.viettelstore.vn/Images/Product/ProductImage/410095090.png"
+    },
+    {
+        "id": 29,
+        "name_phone": "Samsung Galaxy A50s",
+        "category": "Huawei",
+        "price": 7290000,
+        "discount":1000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/198986/sieu-pham-galaxy-s-moi-2-512gb-black-400x400.jpg"
+    },
+    {
+        "id": 30,
+        "name_phone": "Samsung Galaxy A20s ",
+        "category": "Huawei",
+        "price": 4390000,
+        "discount":500000,
+        "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "img": "https://imgs.viettelstore.vn/Images/Product/ProductImage/1013416496.png"
+    },
+    {
+        "id": 31,
+        "name_phone": "Samsung Galaxy Note 10+ ",
+        "category": "Nokia",
+        "price": 26990000,
+        "discount":3000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "img": "https://imgs.viettelstore.vn/images/Product/ProductImage/medium/9196629362.jpg"
+    },
+    {
+        "id": 32,
+        "name_phone": "Samsung Galaxy A50s",
+        "category": "Nokia",
+        "price": 7290000,
+        "discount":3000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/198986/sieu-pham-galaxy-s-moi-2-512gb-black-400x400.jpg"
+    },
+    {
+        "id": 33,
+        "name_phone": "Samsung Galaxy A20s ",
+        "category": "Nokia",
+        "price": 4390000,
+        "discount":3000000,
+        "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "img": "https://imgs.viettelstore.vn/Images/Product/ProductImage/1013416496.png"
+    },
+    {
+        "id": 34,
+        "name_phone": "Samsung Galaxy Note 10+ ",
+        "category": "Nokia",
+        "price": 26990000,
+        "discount":3000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "img": "https://imgs.viettelstore.vn/Images/Product/ProductImage/410095090.png"
+    },
+    {
+        "id": 35,
+        "name_phone": "Samsung Galaxy A50s",
+        "category": "Nokia",
+        "price": 7290000,
+        "discount":1000000,
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "img": "https://cdn.tgdd.vn/Products/Images/42/198986/sieu-pham-galaxy-s-moi-2-512gb-black-400x400.jpg"
+    },
+    {
+        "id": 36,
+        "name_phone": "Samsung Galaxy A20s ",
+        "category": "Nokia",
+        "price": 4390000,
+        "discount":500000,
+        "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "img": "https://imgs.viettelstore.vn/Images/Product/ProductImage/1013416496.png"
+    }
+]

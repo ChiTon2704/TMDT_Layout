@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name_category": "iPhone"
+    },
+    {
+        "id": 2,
+        "name_category": "Oppo"
+    },
+    {
+        "id": 3,
+        "name_category": "Xiaomi"
+    },
+    {
+        "id": 4,
+        "name_category": "Samsung"
+    },
+    {
+        "id": 5,
+        "name_category": "Huawei"
+    },
+    {
+        "id": 6,
+        "name_category": "Sony"
+    }
+]
